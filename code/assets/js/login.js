@@ -68,9 +68,8 @@ $(function() {
 
                 // 跳转到后台主页
 
-                setTimeout(function() {
-                    window.location.href = "index.html";
-                }, 100);
+                window.location.href = "index.html";
+
             }
         })
     })
